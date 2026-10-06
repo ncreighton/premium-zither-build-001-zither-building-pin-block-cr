@@ -1,0 +1,2 @@
+# premium-zither-build-001-zither-building-pin-block-cr
+Stop piecing together sticky notes and spreadsheet chaos for your zither builds. Every pin block tolerance, wood grain orientation, and string tension calculation deserves a single source of truth.  The Zither Building &amp; Pin Block Craft Studio is the first Notion template purpose-built for the intricate workflow of zither and pin block crafting. It
